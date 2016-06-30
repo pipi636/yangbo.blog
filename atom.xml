@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://pipi636.github.io/yangbo.blog/atom.xml" rel="self"/>
+  <link href="http://pipi636.github.io/yangbo.blog/"/>
+  <updated>2016-06-30T12:14:58+08:00</updated>
+  <id>http://pipi636.github.io/yangbo.blog/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[我的第一篇博客]]></title>
+    <link href="http://pipi636.github.io/yangbo.blog/blog/2016/06/30/my-first-blog/"/>
+    <updated>2016-06-30T12:10:24+08:00</updated>
+    <id>http://pipi636.github.io/yangbo.blog/blog/2016/06/30/my-first-blog</id>
+    <content type="html"><![CDATA[<p>在学习R语言的过程中，通过很多人的博客学到了很多有用的知识，为了记录自己的学习过程，也本着共同学习共同进步的互联网分享精神，所以开通了我的博客。</p>
+]]></content>
+  </entry>
+  
+</feed>

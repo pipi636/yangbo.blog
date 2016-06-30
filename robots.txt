@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://pipi636.github.io/yangbo.blog/sitemap.xml 
